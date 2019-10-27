@@ -27,7 +27,7 @@
     This repo exists solely for test purposes!
 
 
-* Author(s): Kattni Rembor
+* Author(s): Kattni Rembor, Ladyada
 
 Implementation Notes
 --------------------
