@@ -53,7 +53,8 @@ class Test:
 
     @staticmethod
     def test():
-        """Test function."""
+        """Test 
+        function."""
         while True:
             pass
 
