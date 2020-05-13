@@ -52,7 +52,22 @@ class Test:
         self._test_value = "Untested"
 
     @staticmethod
-    def test(foo, bar, foobar, fake, variable, im, running, out, of, names, foobarfoo, thing, thing_as_well, also_thing):
+    def test(
+        foo,
+        bar,
+        foobar,
+        fake,
+        variable,
+        im,
+        running,
+        out,
+        of,
+        names,
+        foobarfoo,
+        thing,
+        thing_as_well,
+        also_thing,
+    ):
         """Test function."""
         while True:
             pass
