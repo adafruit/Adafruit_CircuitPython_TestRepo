@@ -2,8 +2,8 @@ Introduction
 ============
 
 
-.. image:: https://readthedocs.org/projects/adafruit-circuitpython-pastebin/badge/?version=latest
-    :target: https://docs.circuitpython.org/projects/pastebin/en/latest/
+.. image:: https://readthedocs.org/projects/adafruit-circuitpython-testrepo/badge/?version=latest
+    :target: https://docs.circuitpython.org/projects/testrepo/en/latest/
     :alt: Documentation Status
 
 
