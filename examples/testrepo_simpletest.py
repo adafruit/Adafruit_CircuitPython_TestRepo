@@ -22,3 +22,4 @@ while True:
     print(y + 10)
     print(z + 100)
     print(x + 88)
+    print(x + 72)
